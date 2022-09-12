@@ -16381,8 +16381,8 @@
   },
   "networks": {
     "42": {
-      "address": "0x9448da96781b93b1e02b58ee246841a56d0140e9",
-      "transactionHash": "0x784bf6bee56dc20c7e4945f548a4ed2923f7cbe39d3a21a4fd250c38373bb35c"
+      "address": "0x4dc93c7e1c80c78f5f2df439ba10bb7eb92b0532",
+      "transactionHash": "0x5642e942b4e81d0930268eff0ec6782d71725dd8d85a1b445e0b55da8ad74d2b"
     },
     "5777": {
       "events": {},
